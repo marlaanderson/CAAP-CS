@@ -10,3 +10,21 @@ C:\Users\Marla\Desktop\CAAP-CS\Lab0>git commit --amend
 C:\Users\Marla\Desktop\CAAP-CS\Lab0>notepad tasks.txt
 
 I googled "how to edit the commit message in git" and this website had the answer: https://help.github.com/articles/changing-a-commit-message/
+
+Task 7
+------
+First I made a directory for the repository. 
+Then, I did the command git clone https://github.com/junegunn/fzf.git
+Then, I went into the new repository and did git log, and I only found one that had a message that related to a mouse: 
+
+commit 0edbcbdf1909a6d3c56ae264362f11bc2bf9f65d
+Author: Junegunn Choi <junegunn.c@gmail.com>
+Date:   Mon Jun 25 19:07:12 2018 +0900
+
+    Allow search query longer than the screen width
+
+    By implementing horizontal scrolling of the prompt line.
+    Maximum length is hard-coded to 300-chars.
+
+    Close #1312
+    Fix #1225
