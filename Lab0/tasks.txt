@@ -1,0 +1,12 @@
+Task 6
+------
+I git command --amend a few times and I had a few typos but this is the one that actually worked
+
+C:\Users\Marla\Desktop\CAAP-CS\Lab0>git commit --amend
+[master d99a8d3] Adding Task 6
+ Date: Mon Jul 2 20:30:21 2018 -0500
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+C:\Users\Marla\Desktop\CAAP-CS\Lab0>notepad tasks.txt
+
+I googled "how to edit the commit message in git" and this website had the answer: https://help.github.com/articles/changing-a-commit-message/
