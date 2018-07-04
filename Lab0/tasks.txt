@@ -48,3 +48,20 @@ index aa139d5..e76029a 100644
 \ No newline at end of file
 
     Fix #1225
+
+Task 9
+------
+I found the command to use on this website: https://stackoverflow.com/questions/2047465/how-can-i-delete-a-file-from-git-repo
+
+C:\Users\Marla\Desktop\CAAP-CS\Lab0>git rm mistake.txt
+rm 'Lab0/mistake.txt'
+
+Task 10
+------
+I found the command on https://stackoverflow.com/questions/10415565/how-to-revert-multiple-commits-as-part-of-a-single-commit/34146773
+
+C:\Users\Marla\Desktop\CAAP-CS\Lab0>git revert b351d8dd845803f2ed70b6650a80f08c121d5ac0 8c5efd3fca77eba249626ea615e53634b971b318
+[master d99a9cc] Revert "Task 10 other mistake"
+ 1 file changed, 1 deletion(-)
+[master 29b79b4] Revert "Task 10"
+ 1 file changed, 1 deletion(-)
