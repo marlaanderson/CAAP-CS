@@ -27,4 +27,24 @@ Date:   Mon Jun 25 19:07:12 2018 +0900
     Maximum length is hard-coded to 300-chars.
 
     Close #1312
+
+Task 8
+------
+I googled "how to tell changes made in git" and found the command on this webpage: https://stackoverflow.com/questions/4456532/how-can-i-see-what-has-changed-in-a-file-before-committing-to-git
+
+C:\Users\Marla\Desktop\CAAP-CS\Lab0>git diff README.txt
+diff --git a/Lab0/README.txt b/Lab0/README.txt
+index aa139d5..e76029a 100644
+--- a/Lab0/README.txt
++++ b/Lab0/README.txt
+@@ -1,2 +1,5 @@
+ Git is pretty cool
+-Hopefully our last change...
+\ No newline at end of file
++Hopefully our last change...^M
++^M
++Task 8^M
++------
+\ No newline at end of file
+
     Fix #1225
