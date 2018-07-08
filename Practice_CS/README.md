@@ -1,10 +1,10 @@
 # Assignment 1
 
-Author:
+Author: Marla Anderson
 
-Date last modified:
+Date last modified:7-8-2018
 
-Python 3.7.0
+Python version: 3.7.0
 
 ## Programs
 
