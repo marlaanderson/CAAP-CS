@@ -16,3 +16,5 @@ Task 10: 0 points
 	--> no record of tasks.txt file
 Task 11: 2 points
 Total: 32/60
+
+Marla, please push your tasks.txt file and I will reconsider regrading your lab0.
