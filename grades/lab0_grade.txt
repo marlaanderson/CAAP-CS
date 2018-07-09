@@ -4,17 +4,19 @@ Task 2: 4 points
 Task 3: 5 points
 Task 4:	5 points
 Task 5:	5 points
-Task 6: 0 points
-	--> no record of tasks.txt file
-Task 7: 0 points
-	--> no record of tasks.txt file
-Task 8: 0 points
-	--> no record of tasks.txt file
-Task 9: 0 points
-	--> no record of tasks.txt file
-Task 10: 0 points
-	--> no record of tasks.txt file
-Task 11: 2 points
-Total: 32/60
+Task 6: 5 points
+Task 7: 3 points
+	--> This is what had to do, great job; however, this is not the commit we were looking for, you probably didn't scroll far enough. Another option is to output the results of log to a file and using the find feature in an editor. 
+	-->	commit c7e86ad4f1061b0cad9f64a6c9ad26f386bc1168
+		Author: Junegunn Choi <junegunn.c@gmail.com>
+		Date:   Thu Jan 30 15:41:44 2014 +0900
 
-Marla, please push your tasks.txt file and I will reconsider regrading your lab0.
+	    Add --no-mouse option to replace FZF_MOUSE_ENABLED
+
+Task 8: 5 points
+Task 9: 5 points
+Task 10: 10 points
+Task 11: 2 points
+
+-5 for pushing the file late.
+Total: 54/60
