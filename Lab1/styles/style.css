@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+/* Last edit: 2/18/2018 8:00 PM */
+/* Last validated error free: 2/18/2018 9:27 PM */
+
+/* Cite code */
+
+
+span {
+    margin: -20px 0 0 70px;
+    display: inline-block;
+}
+
+@media screen and (min-width: 1050px) {
+    span {
+        margin: -20px 0 0 0;
+    }
+}
+@media screen and (min-width: 1200px) {
+    span {
+        margin: 0 0 0 0;
+    }
+}
