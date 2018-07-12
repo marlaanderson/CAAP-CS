@@ -5,19 +5,36 @@
 
 /* Cite code */
 
-
-span {
-    margin: -20px 0 0 70px;
-    display: inline-block;
+body {
+    background-color: aquamarine;
+}
+p {
+    color:grey;
+    text-align: center;
+    font-family: cursive;
+    font-size: 20px
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
 }
 
-@media screen and (min-width: 1050px) {
-    span {
-        margin: -20px 0 0 0;
-    }
+li {
+    float: left;
 }
-@media screen and (min-width: 1200px) {
-    span {
-        margin: 0 0 0 0;
-    }
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
 }
