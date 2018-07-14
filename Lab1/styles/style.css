@@ -6,13 +6,51 @@
 /* Cite code */
 
 body {
-    background-color: aquamarine;
+    background-color:antiquewhite;
+    font-style: normal;
+    font-family:inherit;
+    font-size: 20px;
+    margin-left: auto;
+    margin-right: auto;
 }
-p {
-    color:grey;
+section.one {
+    color:black;
     text-align: center;
-    font-family: cursive;
-    font-size: 20px
+    border: 2px solid;
+    border-radius: 5px;
+    background-color: floralwhite;
+}
+section.two {
+    color:black;
+    text-align: center;
+    border: 2px solid;
+    border-radius: 5px;
+}
+section.three {
+    color:black;
+    text-align: center;
+    border: 2px solid;
+    border-radius: 5px;
+    background-color: floralwhite;
+}
+section.four {
+    color:black;
+    text-align: center;
+    border: 2px solid;
+    border-radius: 5px;
+}
+section.five {
+    color:black;
+    text-align: center;
+    border: 2px solid;
+    border-radius: 5px;
+    background-color: floralwhite;
+}
+section.six {
+    color:black;
+    text-align: center;
+    border: 2px solid;
+    border-radius: 5px;
 }
 ul {
     list-style-type: none;
@@ -21,11 +59,12 @@ ul {
     overflow: hidden;
     background-color: #333;
 }
-
 li {
     float: left;
 }
-
+header {
+    background-color:floralwhite
+}
 li a {
     display: block;
     color: white;
@@ -34,7 +73,6 @@ li a {
     text-decoration: none;
 }
 
-/* Change the link color to #111 (black) on hover */
 li a:hover {
     background-color: #111;
 }
@@ -43,4 +81,22 @@ li a:hover {
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+}
+footer {
+    position: fixed;
+    bottom:0;
+    background-color:floralwhite;
+}
+.littletree {
+    display:none;
+}
+.centerpic {
+    display: block;
+    margin-top: 30px;
+    margin-bottom: 5px;
+    margin-left: auto;
+    margin-right: auto;
+}
+section.link {
+    text-align: center;
 }
