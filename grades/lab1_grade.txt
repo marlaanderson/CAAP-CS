@@ -1,0 +1,40 @@
+Lab 1
+CAAP CMSC 101, Summer 2018
+
+Required Elements/Attributes
+  Correct use           3/3
+  Used all              3/3
+  Balanced amount       3/3 
+
+Semantic markup
+  Well structured hierarchies    20/20
+
+Correct use of directories/files
+  Links                 5/5
+  In docs directory     2/5
+  Git sites works       8/10
+
+Validation
+  Both pages and stylesheets  16/20
+
+Design/CSS
+  Dynamic screen size    5/5
+  Efficient use of CSS on multiple pages     8/10
+  Professional design in both pages  5/5
+  
+
+Code style
+  format         3/3 (* code looks good *)
+  clarity        0/3 (* logic is expressed clearly *)
+  decomposition  3/3 (* problems are factored into sensible subproblems *)
+  efficiency     2/2 (* blatant inefficiencies are avoided *)
+
+_total-score_  87/100
+
+graded by Jose Reyes
+
+Comments:
+- Very neat code!
+- Make sure to comment what you did, or what each section is for, especially when you did the last edits and validated in all your pages and style sheets
+- You could easily add more content to your pages
+- Footer shouldn't move up and down with the page, maybe the header, but not the footer.
