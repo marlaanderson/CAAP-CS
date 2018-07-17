@@ -5,7 +5,7 @@ def seconds_alive ():
     HoursPerDay = 24
     DaysPerWeek = 7
     WeeksPerYear = 52
-    YearsAlive = input ("This program converts your age to seconds, and tells you the minimum amount of seconds you have been alive. This is not accurate to the exact second, but is simply an estimation. How old are you?")
+    YearsAlive = int(input("This program converts your age to seconds, and tells you the minimum amount of seconds you have been alive. This is not accurate to the exact second, but is simply an estimation. How old are you?"))
     SecondsAlive = SecondsPerMinute*MinutesPerHour*HoursPerDay*DaysPerWeek*WeeksPerYear*YearsAlive
     print ("Wow, congratulations! You've succesfully been alive for at least %s seconds!" %(SecondsAlive))
 seconds_alive ()
