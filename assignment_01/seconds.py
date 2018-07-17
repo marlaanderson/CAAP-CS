@@ -1,4 +1,4 @@
-#Converts years into seconds
+# Converts years into seconds
 def seconds_alive ():
     SecondsPerMinute = 60
     MinutesPerHour = 60

@@ -1,4 +1,4 @@
-#Converts Fahrenheit temperature to Celsius. 
+# Converts Fahrenheit temperature to Celsius. 
 def f_to_c ():
     Fahrenheit = int(input ("What's the Fahrenheit temperature?"))
     Celsius = (5/9)*(Fahrenheit-32)
