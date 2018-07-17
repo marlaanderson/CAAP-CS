@@ -25,8 +25,8 @@ Slope: Sums a series of numbers entered by the user after prompting user for how
 
 Fibonacci Sequence: Computes the nth Fibonacci number where n is a value input by the user.
 
-*TO RUN: fibonacci.py
+*TO RUN: python fibonacci.py
 
 Change: Calculates the minimum number of coins required to give a user change.
 
-*TO RUN: change.py
+*TO RUN: python change.py

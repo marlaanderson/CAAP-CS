@@ -1,3 +1,4 @@
+#Computes the nth Fibonacci number where n is a value input by the user.
 def fibonacci (): 
     n = eval(input("What term of the FIbonacci sequence are you trying to find?"))
     x=[0,1]

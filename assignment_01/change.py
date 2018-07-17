@@ -1,3 +1,4 @@
+Calculates the minimum number of coins required to give a user change.
 def change ():
     c = int(input("How many cents (less than a dollar) are owed?"))
     quarters = c//25
