@@ -6,5 +6,5 @@ def findsum ():
     total = 0
     for i in numbers:
         total += i
-        print("The sum of the series is:", total)
+    print("The sum of the series is:", total)
 findsum ()
