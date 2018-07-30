@@ -97,8 +97,17 @@ def play_game(w,l,mode):
 		print("It took %s moves."%(state[i]["moves"]))
 	else:
 		print ("Please enter an integer: 1 or 2.")
-play_game(4,4,2)
+play_game(6,6,2)
 
 # Runs the game as a simulation and keeps track of the number of moves it takes to win and returns average
 def simulate_game():
-	play_game()
+	w = int(input("Enter a width for your game board?: "))
+	l = int(input("Enter a length for your game board?: "))
+	simulations = int(input("Enter how many simulations of the game you want: "))
+	listx =[]
+	for i in range(simulations):
+		listx.append(play_game(w,l,2))
+		return listx
+	average_moves =sum(listx)/len(listx)
+	print("Average moves: %s" %s(average_moves))
+simulate_game()
