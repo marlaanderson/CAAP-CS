@@ -1,5 +1,6 @@
 # MARLA ANDERSON
 # LAB 3
+# got some help from Juan Pablo
 
 from random import randint
 
