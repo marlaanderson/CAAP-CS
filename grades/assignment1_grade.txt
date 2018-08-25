@@ -7,9 +7,10 @@ Assignment 1 Grade:
 3. Unit Conversion:  6/6 pts
 4. Slope: 8/10 pts
 	--> program should print out a total sum after all the numbers have been entered. -2 pts
-5. Fibonacci Sequence: 3/6 pts
+5. Fibonacci Sequence: 6/6 pts
 	--> Sequence gives incorrect terms. e.g. 6th term is not 5. -3pts
+	--> Corrected: +3
 6. Part 2 - Change: 20/20 pts
 7. Part 4 - 10/10 pts 
 
-49/60 Points total
+62/60 Points total
